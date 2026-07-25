@@ -21,14 +21,12 @@ Ben, Thor and the rest of the C.R.A.P team
 ## 🚀 Features
  
 
-## 📦 Build & Installation
+## 📦 Hardware
 
 •	See this link for Wall-E Assembly Instructions and Videos by Chillbasket (https://wired.chillibasket.com/3d-printed-wall-e/) 
-
-## 🛠️ Hardware: -
     1 x ESP32-C3
 
 ## 🛠️ Usage
 
 ## 📜 License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Creative Commons Zero v1.0 Universal License. See `LICENSE` for more information.
