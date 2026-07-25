@@ -19,13 +19,10 @@ Ben, Thor and the rest of the C.R.A.P team
 
 (Cross Rough Atlantic Projects)
 
-
 ## 🚀 Features
- 
+ 26-7-26 WIP
 
-## 📦 Hardware
-
-•	See this link for Wall-E Assembly Instructions and Videos by Chillbasket (https://wired.chillibasket.com/3d-printed-wall-e/) 
+## 🧲 Hardware
     1 x ESP32-C3
 
 ## 🛠️ Usage
