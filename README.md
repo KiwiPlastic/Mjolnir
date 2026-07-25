@@ -1,7 +1,7 @@
 # Mjolnir - High Performance Nerf Blaster
 **Arduino Nano, ESC bushless motors, OLED, Select Fire**
 
-https://github.com/KiwiPlastic/Mjolnir/blob/main/Images/IMG_8636.png?raw=true
+![](https://github.com/KiwiPlastic/Mjolnir/blob/main/Images/IMG_8636.png?raw=true)
 
 Hi there and welcome! Thanks alot for checking out Mjölnir - We've been so excited to share this with you, that we simply could'nt wait any longer. This blaster is for the community, by the community. 
 
