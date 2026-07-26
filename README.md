@@ -19,18 +19,44 @@ Ben, Thor and the rest of the C.R.A.P team
 
 (Cross Rough Atlantic Projects)
 
-## 🚀 Features
- 26-7-26 WIP
-  - Discription
-  - Video
-  - Diagram
+## 🚀 Summary
 
-!{}(https://github.com/KiwiPlastic/Mjolnir/blob/main/Assembly%20Guide/Major-Assembly-guide-1.3.pdf)
+Mjolnir is a Brushless, Solenoid pusher, Micro controlled Blaster with Oled display and Rotary
+encoder.
 
-## 🧲 Hardware
-    1 x ESP32-C3
+It can be regarded as a medium to advanced electronics project depending on how you approach the
+build, however there are no reasons beginners cannot start here -this document is to also help
+beginners get involved.
+
+Please see here for detailed ![Assembly Instructions](https://github.com/KiwiPlastic/Mjolnir/blob/main/Assembly%20Guide/Major-Assembly-guide-1.3.pdf)
+
+
+![Discord Invite](https://discord.gg/Edy7qAxdAY/)
+
+## 🧲 Basic Hardware
+    1 x Arduino Nano
+    1 x OLED Display
+    2 x ESC
+    2 x Brushless Motors
+    1 x Buck Regulator
+    2 x Micro Switch
+    1 x Rotary Encoder
+    1 x Mosfet
+    1 x Solenoid
+    
+
+  **Digram**
+![](https://github.com/KiwiPlastic/Mjolnir/blob/main/Images/IMG_8562.JPG?raw=true)
 
 ## 🛠️ Usage
+
+Play - Nerf games 
+Has 3 firing Modes
+ - Singal
+ - Burst
+ - Auto
+
+Use Encoder and Oled to change setings via menu
 
 ## 📜 License
 Distributed under the Creative Commons Zero v1.0 Universal License. See `LICENSE` for more information.
