@@ -21,6 +21,9 @@ Ben, Thor and the rest of the C.R.A.P team
 
 ## 🚀 Features
  26-7-26 WIP
+  - Discription
+  - Video
+  - Diagram
 
 ## 🧲 Hardware
     1 x ESP32-C3
