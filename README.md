@@ -25,7 +25,7 @@ Ben, Thor and the rest of the C.R.A.P team
   - Video
   - Diagram
 
-
+!{}(https://github.com/KiwiPlastic/Mjolnir/blob/main/Assembly%20Guide/Major-Assembly-guide-1.3.pdf)
 
 ## 🧲 Hardware
     1 x ESP32-C3
