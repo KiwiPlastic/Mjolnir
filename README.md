@@ -25,6 +25,8 @@ Ben, Thor and the rest of the C.R.A.P team
   - Video
   - Diagram
 
+
+
 ## 🧲 Hardware
     1 x ESP32-C3
 
